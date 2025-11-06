@@ -1,0 +1,88 @@
+1. country → Quốc gia
+2. year → Năm
+3. iso_code → Mã ISO (3 chữ cái)
+4. population → Dân số (người)
+
+5. gdp → GDP (đô la quốc tế 2011, đã điều chỉnh lạm phát & chênh lệch giá)
+6. cement_co2 → Phát thải CO₂ từ xi-măng (triệu tấn/năm)
+7. cement_co2_per_capita → Phát thải CO₂ từ xi-măng bình quân đầu người (tấn/người)
+
+8. co2 → Tổng phát thải CO₂ (không tính thay đổi sử dụng đất) (triệu tấn)
+9. co2_growth_abs → Tăng trưởng tuyệt đối CO₂ (triệu tấn)
+10. co2_growth_prct → Tăng trưởng phần trăm CO₂ (%)
+11. co2_including_luc → Tổng phát thải CO₂ (có tính thay đổi sử dụng đất) (triệu tấn)
+12. co2_including_luc_growth_abs → Tăng trưởng tuyệt đối CO₂ (có LUC) (triệu tấn)
+13. co2_including_luc_growth_prct → Tăng trưởng phần trăm CO₂ (có LUC) (%)
+14. co2_including_luc_per_capita → CO₂ bình quân đầu người (có LUC) (tấn/người)
+15. co2_including_luc_per_gdp → CO₂ trên mỗi $ GDP (có LUC) (kg/$)
+16. co2_including_luc_per_unit_energy → CO₂ trên mỗi kWh năng lượng (có LUC) (kg/kWh)
+
+17. co2_per_capita → CO₂ bình quân đầu người (không LUC) (tấn/người)
+18. co2_per_gdp → CO₂ trên mỗi $ GDP (không LUC) (kg/$)
+19. co2_per_unit_energy → CO₂ trên mỗi kWh năng lượng (không LUC) (kg/kWh)
+
+20. coal_co2 → Phát thải CO₂ từ than (triệu tấn)
+21. coal_co2_per_capita → CO₂ từ than bình quân đầu người (tấn/người)
+
+22. consumption_co2 → Phát thải CO₂ theo tiêu dùng (triệu tấn)
+23. consumption_co2_per_capita → CO₂ tiêu dùng bình quân đầu người (tấn/người)
+24. consumption_co2_per_gdp → CO₂ tiêu dùng trên mỗi $ GDP (kg/$)
+
+25. cumulative_cement_co2 → Lũy kế CO₂ từ xi-măng (triệu tấn)
+26. cumulative_co2 → Lũy kế CO₂ (không LUC) (triệu tấn)
+27. cumulative_co2_including_luc → Lũy kế CO₂ (có LUC) (triệu tấn)
+28. cumulative_coal_co2 → Lũy kế CO₂ từ than (triệu tấn)
+29. cumulative_flaring_co2 → Lũy kế CO₂ từ đốt khí thừa (triệu tấn)
+30. cumulative_gas_co2 → Lũy kế CO₂ từ khí đốt (triệu tấn)
+31. cumulative_luc_co2 → Lũy kế CO₂ từ thay đổi sử dụng đất (triệu tấn)
+32. cumulative_oil_co2 → Lũy kế CO₂ từ dầu (triệu tấn)
+33. cumulative_other_co2 → Lũy kế CO₂ từ ngành khác (triệu tấn)
+
+34. energy_per_capita → Tiêu thụ năng lượng sơ cấp bình quân đầu người (kWh/người)
+35. energy_per_gdp → Tiêu thụ năng lượng sơ cấp trên mỗi $ GDP (kWh/$)
+
+36. flaring_co2 → Phát thải CO₂ từ đốt khí thừa (triệu tấn)
+37. flaring_co2_per_capita → CO₂ từ đốt khí thừa bình quân đầu người (tấn/người)
+
+38. gas_co2 → Phát thải CO₂ từ khí đốt (triệu tấn)
+39. gas_co2_per_capita → CO₂ từ khí đốt bình quân đầu người (tấn/người)
+
+40. ghg_excluding_lucf_per_capita → Phát thải khí nhà kính bình quân đầu người (chỉ nhiên liệu hóa thạch + công nghiệp) (tấn CO₂e)
+41. ghg_per_capita → Phát thải khí nhà kính bình quân đầu người (bao gồm sử dụng đất) (tấn CO₂e)
+
+42. land_use_change_co2 → Phát thải CO₂ từ thay đổi sử dụng đất (triệu tấn)
+43. land_use_change_co2_per_capita → CO₂ từ thay đổi sử dụng đất bình quân đầu người (tấn/người)
+
+44. methane → Phát thải metan (CH₄) hàng năm (triệu tấn CO₂e)
+45. methane_per_capita → Metan bình quân đầu người (tấn CO₂e)
+
+46. nitrous_oxide → Phát thải nitrous oxide (N₂O) hàng năm (triệu tấn CO₂e)
+47. nitrous_oxide_per_capita → N₂O bình quân đầu người (tấn CO₂e)
+
+48. oil_co2 → Phát thải CO₂ từ dầu (triệu tấn)
+49. oil_co2_per_capita → CO₂ từ dầu bình quân đầu người (tấn/người)
+
+50. other_co2_per_capita → CO₂ từ ngành khác bình quân đầu người (tấn/người)
+51. other_industry_co2 → Phát thải CO₂ từ ngành công nghiệp khác (triệu tấn)
+
+52. primary_energy_consumption → Tiêu thụ năng lượng sơ cấp (TWh)
+
+53-68. share_global_… → Tỷ trọng đóng góp vào toàn cầu (%)
+   Ví dụ:
+   share_global_cement_co2 → Tỷ trọng CO₂ xi-măng của quốc gia so với thế giới (%)
+   share_global_co2 → Tỷ trọng CO₂ tổng của quốc gia (%)
+   … (các biến còn lại tương tự)
+
+69. share_of_temperature_change_from_ghg → Đóng góp vào sự nóng lên toàn cầu (%)
+
+70-73. temperature_change_from_…
+   temperature_change_from_co2 → Nhiệt độ tăng do CO₂ (°C)
+   temperature_change_from_ch4 → Nhiệt độ tăng do CH₄ (°C)
+   temperature_change_from_n2o → Nhiệt độ tăng do N₂O (°C)
+   temperature_change_from_ghg → Nhiệt độ tăng do toàn bộ khí nhà kính (°C)
+
+74. total_ghg → Tổng phát thải khí nhà kính (bao gồm sử dụng đất) (triệu tấn CO₂e)
+75. total_ghg_excluding_lucf → Tổng khí nhà kính (chỉ nhiên liệu hóa thạch + công nghiệp) (triệu tấn CO₂e)
+
+76. trade_co2 → CO₂ nhúng trong thương mại (ròng) (triệu tấn)
+77. trade_co2_share → Tỷ trọng CO₂ thương mại so với tổng phát thải (%)
